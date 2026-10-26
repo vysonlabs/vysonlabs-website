@@ -201,15 +201,15 @@ The Products section must contain meaningful descriptions rather than only produ
 
 Do not claim that the app is available on the App Store until it is actually published.
 
-### Product 2: Lumora
+### Product 2: OwnCrest
 
 **Status:** Concept or in development
 
 ### Suggested copy
 
-> **Lumora** is a personal finance and organisation product currently in development. It is intended to help users understand and manage everyday financial information through a clear and approachable experience.
+> **OwnCrest** is a privacy-first iOS app currently in development, bringing assets, loans, insurance, and ownership documents into one private wealth vault. Track property, investments, savings, physical gold, and vehicles, understand net worth, and explore future financial position with user-controlled assumptions. Features include multiple currencies, separate PIN-protected profiles, optional two-step verification, encrypted document attachments, optional iCloud backup, and password-protected vault export and import.
 
-Only include Lumora if the product name and direction are sufficiently final.
+Only include OwnCrest if the product name and direction are sufficiently final.
 
 ### Product card requirements
 
